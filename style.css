@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(183, 224, 224);
+    text-align: center;
+}
+.cabecera{
+    background-color: rgb(163, 163, 163);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+    padding: 10px;  
+    display: flex;   
+}
+.cabecera img{
+    float: left;
+    
+}
+
+.tienda{
+    display: flex;
+    background-color: rgb(180, 195, 195);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    text-align: center;
+    padding: 3;
+}
+.prdts{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-color: black;
+    border-style: groove;
+    margin-bottom: 10px;
+}
+
